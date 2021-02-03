@@ -1,8 +1,8 @@
 const int ledPin =  LED_BUILTIN;
 int ledState = LOW;
 String a;
-String c = "off\n";
-String b = "on\n";
+String c = "off";
+String b = "on";
 String d = "blink\n";
 void setup() {
 
