@@ -3,7 +3,7 @@ int ledState = LOW;
 String a;
 String c = "off";
 String b = "on";
-String d = "blink\n";
+String d = "blink";
 void setup() {
 
 Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
